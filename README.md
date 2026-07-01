@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Computer Engineering Student/Graduate @ Shahid Beheshti University 🎓**
+**Computer Engineering Student @ Shahid Beheshti University 🎓**
 
 ### 🛠️ Technical Arsenal
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
